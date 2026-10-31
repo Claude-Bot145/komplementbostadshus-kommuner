@@ -1,0 +1,2499 @@
+[
+  {
+    "kommun": "Avesta",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-avesta-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Avesta kommun, Bygglov och andra tillstånd",
+        "url": "https://avesta.se/bygga-bo-och-miljo/planering-byggande-och-boende/bygglov-och-tillstand/",
+        "page_date": "2026-09-11",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Västmanland-Dalarna miljö- och byggförvaltning, Komplementbyggnad och komplementbostadshus",
+        "url": "https://vdmb.se/bygga-andra-riva/a-till-o/komplementbyggnad-och-komplementbostadshus/",
+        "page_date": "2026-09-28",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Västmanland-Dalarna miljö- och byggförvaltning, Vilka handlingar krävs?",
+        "url": "https://vdmb.se/bygga-andra-riva/vilka-handlingar-kravs/",
+        "page_date": "2026-09-17",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Västmanland-Dalarna miljö- och byggförvaltning, Nybyggnadskarta",
+        "url": "https://vdmb.se/bygga-andra-riva/bygglov/nybyggnadskarta/",
+        "page_date": "2026-08-20",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "kommun": "Borlänge",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-borlange-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Borlänge kommun, Komplementbostadshus",
+        "url": "https://www.borlange.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/vad-vill-du-bygga/guider/komplementbostadshus",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Borlänge kommun, Anmälan",
+        "url": "https://www.borlange.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsprocessen/anmalan",
+        "page_date": "2026-10-01",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Borlänge kommun, Exempel på ritningar",
+        "url": "https://www.borlange.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsprocessen/exempel-pa-ritningar",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Borlänge kommun, Olika typer av kartor",
+        "url": "https://www.borlange.se/bygga-bo-och-miljo/kartor-och-geografisk-information/olika-typer-av-kartor",
+        "page_date": "2026-05-06",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Borås",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-boras-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Borås Stad, Komplementbyggnad",
+        "url": "https://www.boras.se/bobyggaochtrafik/byggarivaellerforandra/behoverjagbygglov/komplementbyggnad.4.6b00451018e55e78a7c6b8bb.html",
+        "page_date": "2026-04-22",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Borås Stad, Attefallshus",
+        "url": "https://www.boras.se/bobyggaochtrafik/byggarivaellerforandra/behoverjagbygglov/attefallshus.4.3353d1f3177732d0c5c1a099.html",
+        "page_date": "2026-07-08",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Borås Stad, Ritningar",
+        "url": "https://www.boras.se/bobyggaochtrafik/byggarivaellerforandra/ritningardokumentochkartor/ritningar.4.3ce79020177db5c897d5820a.html",
+        "page_date": "2026-10-01",
+        "checked": null
+      },
+      {
+        "title": "Borås Stad, Olika karttyper till situationsplanen och Enkel bygglovskarta",
+        "url": "https://www.boras.se/bobyggaochtrafik/kartormatningochlantmateri/kartprodukter/kartprodukterforbygglov/olikakarttypertillsituationsplanen.4.5dd420d216658fbf907368fe.html",
+        "page_date": "2026-10-01",
+        "checked": null
+      }
+    ]
+  },
+  {
+    "kommun": "Botkyrka",
+    "largest_building_m2": null,
+    "shared_allowance_m2": null,
+    "max_ridge_height_m": null,
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-botkyrka-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Botkyrka kommun, Komplementbostadshus",
+        "url": "https://www.botkyrka.se/boende-och-narmiljo/bygglov-och-tillstand/sa-soker-du-bygglov/bygglov-a-o/komplementbostadshus",
+        "page_date": "2026-09-25",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Botkyrka kommun, Komplementbostadshus under Förändringar som kräver anmälan, med Checklista för handlingar",
+        "url": "https://www.botkyrka.se/boende-och-narmiljo/bygglov-och-tillstand/sa-soker-du-bygglov/bygglov-eller-anmalan/forandringar-som-kraver-anmalan/komplementbostadshus",
+        "page_date": "2026-05-25",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Botkyrka kommun, Checklistor för handlingar (\"Informationen kan vara inaktuell\")",
+        "url": "https://www.botkyrka.se/boende-och-narmiljo/bygglov-och-tillstand/sa-soker-du-bygglov/checklistor-for-handlingar",
+        "page_date": "2026-06-02",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Botkyrka kommun, Anslutning av ett attefallshus (komplementbyggnad)",
+        "url": "https://www.botkyrka.se/boende-och-narmiljo/vatten-och-avlopp/anslut-till-vatten-och-avlopp/anslutning-av-ett-attefallshus-komplementbyggnad",
+        "page_date": "2025-08-06",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Ekerö",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-ekero-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Ekerö kommun, Vad vill du bygga?",
+        "url": "https://www.ekero.se/bygga-bo-miljo/bygga-nytt-andra-eller-riva/vad-vill-du-bygga",
+        "page_date": "2026-08-07",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Ekerö kommun, Bygglov",
+        "url": "https://www.ekero.se/bygga-bo-miljo/bygga-nytt-andra-eller-riva/bygglov",
+        "page_date": "2026-10-08",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Ekerö kommun, Kartor",
+        "url": "https://www.ekero.se/bygga-bo-miljo/lantmateri-och-kartor/kartor",
+        "page_date": "2026-04-09",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "kommun": "Enköping",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": "Kommunens sidor saknade gränserna när vi läste dem; siffrorna är Boverkets.",
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-enkoping-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Enköpings kommun, Vad ska du bygga och behöver du bygglov?",
+        "url": "https://enkoping.se/bygga-bo-och-leva-hallbart/bygga-nytt-andra-eller-riva/vad-ska-du-bygga-och-behover-du-bygglov.html",
+        "page_date": "2025-11-28",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Enköpings kommun, Ansök om bygglov eller gör en anmälan",
+        "url": "https://enkoping.se/bygga-bo-och-leva-hallbart/bygga-nytt-andra-eller-riva/ansok-om-bygglov-eller-gor-en-anmalan.html",
+        "page_date": "2026-10-20",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Enköpings kommun, Exempel på bygglovshandlingar",
+        "url": "https://enkoping.se/bygga-bo-och-leva-hallbart/bygga-nytt-andra-eller-riva/exempel-pa-bygglovshandlingar.html",
+        "page_date": "2025-03-25",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Enköpings kommun, Anslut till kommunalt vatten och avlopp för attefallshus",
+        "url": "https://enkoping.se/bygga-bo-och-leva-hallbart/kommunalt-vatten-och-avlopp/anslut-till-kommunalt-vatten-och-avlopp-for-attefallshus.html",
+        "page_date": "2024-09-25",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Enköpings kommun, Kart- och GIS-tjänster",
+        "url": "https://enkoping.se/bygga-bo-och-leva-hallbart/kart--och-mattjanster/kart--och-gis-tjanster.html",
+        "page_date": "2026-06-02",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Eskilstuna",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "50"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": "Kommunens sida anger 50 m² pott utanför detaljplan, där andra kommuner anger 65 m²; fråga kommunen.",
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-eskilstuna-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Eskilstuna kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://www.eskilstuna.se/bygga-bo-och-miljo/bygga-och-planera/bygga-installera-eller-riva/vad-ska-du-bygga-installera-eller-riva/komplementbyggnad-och-komplementbostadshus",
+        "page_date": "2026-10-09",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Eskilstuna kommun, Ritningar och handlingar",
+        "url": "https://www.eskilstuna.se/bygga-bo-och-miljo/bygga-och-planera/bygga-installera-eller-riva/ritningar-och-handlingar",
+        "page_date": "2026-10-08",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "kommun": "Falun",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-falun-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Falu kommun, Bygglov",
+        "url": "https://www.falun.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/bygglov.html",
+        "page_date": "2026-09-16",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Falu kommun, Anmälan",
+        "url": "https://www.falun.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/anmalan.html",
+        "page_date": "2026-09-14",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Falu kommun, Exempel på ritningar och andra handlingar",
+        "url": "https://www.falun.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/exempel-pa-ritningar-och-andra-handlingar.html",
+        "page_date": "2026-09-17",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Falu kommun, Nybyggnadskarta",
+        "url": "https://www.falun.se/kommun--demokrati/kommunfakta/kartor-och-geografisk-information/nybyggnadskarta.html",
+        "page_date": "2026-04-14",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Gotland",
+    "largest_building_m2": null,
+    "shared_allowance_m2": null,
+    "max_ridge_height_m": null,
+    "checked": "2026-10-17",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-gotland-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Region Gotland, Komplementbostadshus",
+        "url": "https://gotland.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/komplementbostadshus",
+        "page_date": "2026-10-07",
+        "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "kommun": "Gävle",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-gavle-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Gävle kommun, Då behöver du ansöka eller anmäla",
+        "url": "https://www.gavle.se/bygga-trafik-och-miljo/bygga-nytt-andra-eller-riva/da-behover-du-ansoka-eller-anmala/",
+        "page_date": "2026-08-25",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Gävle kommun, Guide för komplementbyggnad",
+        "url": "https://www.gavle.se/bygga-trafik-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide-komplementbyggnad/",
+        "page_date": "2026-02-06",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Gävle kommun, Exempelritningar för bygglov",
+        "url": "https://www.gavle.se/bygga-trafik-och-miljo/bygga-nytt-andra-eller-riva/exempelritningar-for-bygglov/",
+        "page_date": "2025-11-12",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Gävle kommun, Beställ nybyggnadskarta eller kartutdrag",
+        "url": "https://www.gavle.se/bygga-trafik-och-miljo/bygga-nytt-andra-eller-riva/e-tjanster-for-byggarenden/sa-fungerar-situationsplan-nybyggnadskarta-och-kartutdrag/",
+        "page_date": "2025-12-16",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Gävle kommun, Guide för att anmäla attefallsåtgärder",
+        "url": "https://www.gavle.se/bygga-trafik-och-miljo/bygga-nytt-andra-eller-riva/attefallsatgarder-generell_guide/",
+        "page_date": "2024-10-01",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "kommun": "Göteborg",
+    "largest_building_m2": null,
+    "shared_allowance_m2": null,
+    "max_ridge_height_m": null,
+    "checked": "2026-10-19",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-goteborg-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Göteborgs Stad, Exempelritningar – Bygglovbefriad komplementbyggnad eller komplementbostadshus",
+        "url": "https://goteborg.se/wps/wcm/connect/351ed50c-ccd5-4a82-be76-42929269cca0/Attefallshus.pdf?MOD=AJPERES",
+        "page_date": null,
+        "checked": "2026-10-19"
+      },
+      {
+        "title": "Göteborgs Stad, Anmälningspliktiga åtgärder",
+        "url": "https://goteborg.se/wps/portal/start/bygga-bo-och-leva-hallbart/bygga-riva-och-forandra/bygglov/anmalningspliktiga-atgarder",
+        "page_date": null,
+        "checked": "2026-10-19"
+      },
+      {
+        "title": "Göteborgs Stad, Exempelritningar och checklistor – det här behöver du i din ansökan",
+        "url": "https://goteborg.se/wps/portal/start/byggande--lantmateri-och-planarbete/bygga-riva-och-forandra/ansokan-och-ansokningshandlingar/det-har-behover-du-i-din-ansokan?uri=gbglnk:201592215820239",
+        "page_date": null,
+        "checked": "2026-10-19"
+      }
+    ]
+  },
+  {
+    "kommun": "Halmstad",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-17",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-halmstad-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Halmstads kommun, Komplementbostadshus",
+        "url": "https://www.halmstad.se/byggaboochmiljo/bygganyttandraellerriva/vadskadubyggaellerandra/komplementbostadshus.n1151.html",
+        "page_date": "2025-12-12",
+        "checked": "2026-10-17"
+      }
+    ]
+  },
+  {
+    "kommun": "Haninge",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-haninge-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Haninge kommun, Bygglovsbefriad ny och tillbyggnad",
+        "url": "https://www.haninge.se/bygga-trafik-och-miljo/bygga-nytt-andra-riva/vad-vill-du-bygga/bygglovsbefriad-ny-och-tillbyggnad/",
+        "page_date": "2026-02-04",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Haninge kommun, Komplementbyggnad",
+        "url": "https://www.haninge.se/bygga-trafik-och-miljo/bygga-nytt-andra-riva/vad-vill-du-bygga/komplementbyggnad/",
+        "page_date": "2026-03-27",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Haninge kommun, Nybyggnadskarta för bygglov",
+        "url": "https://www.haninge.se/bygga-trafik-och-miljo/kartor-lantmateri-matning/kartor/nybyggnadskarta/",
+        "page_date": "2026-05-22",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Heby",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-heby-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Heby kommun, Bygga nytt, riva eller installera",
+        "url": "https://www.heby.se/boende-trafik-och-miljo/bygga-nytt-riva-eller-installera",
+        "page_date": "2026-09-18",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Heby kommun, Kartor till bygglov",
+        "url": "https://www.heby.se/boende-trafik-och-miljo/kartor-och-mattjanster/kartor-till-bygglov",
+        "page_date": "2026-05-12",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Heby kommun, Ritningar",
+        "url": "https://www.heby.se/boende-trafik-och-miljo/kartor-och-mattjanster/ritningar",
+        "page_date": "2026-05-12",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Tierps kommun, Bygglovsenheten, När du behöver söka bygglov/andra lov eller göra anmälan enligt plan- och bygglagen, version 4, 2026-03-02, bilaga 1 (Heby kommun)",
+        "url": "https://www.tierp.se/download/18.3ac5e0b19ae7ef3aa711dc/1764936749209/N%C3%A4r%20du%20beh%C3%B6ver%20s%C3%B6ka%20bygglov.pdf",
+        "page_date": null,
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Tierps kommun, Bygglovsritningar",
+        "url": "https://www.tierp.se/tierp.se/bo-trafik-och-miljo/bygga-bostad/bygga-nytt-andra-eller-riva/att-soka-bygglov/bygglovsritningar.html",
+        "page_date": "2026-10-15",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "kommun": "Helsingborg",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-helsingborg-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Helsingborgs stad, Komplementbyggnad och komplementbostadshus",
+        "url": "https://helsingborg.se/bo-bygga-och-miljo/bygga-nytt-bygga-om-bygga-till/bygglov-och-anmalan/bygglov-vad-vill-du-gora/komplementbyggnad-och-komplementbostadshus/",
+        "page_date": "2026-02-19",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Helsingborgs stad, Situationsplan och nybyggnadskarta",
+        "url": "https://helsingborg.se/bo-bygga-och-miljo/bygga-nytt-bygga-om-bygga-till/bygglov-och-anmalan/handlingar-och-ritningar/bygglovsritningar-situationsplan-och-nybyggnadskarta/",
+        "page_date": "2024-02-22",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Helsingborgs stad, Planritning, Fasadritning och Sektionsritning",
+        "url": "https://helsingborg.se/bo-bygga-och-miljo/bygga-nytt-bygga-om-bygga-till/bygglov-och-anmalan/handlingar-och-ritningar/",
+        "page_date": "2024-02-22",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Huddinge",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-huddinge-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Huddinge kommun, Lovbefriad komplementbyggnad och komplementbostadshus",
+        "url": "https://www.huddinge.se/bostad-och-miljo/bygglov/nar-behover-du-bygglov/lovbefriad-komplementbyggnad-och-komplementbostadshus",
+        "page_date": "2026-05-28",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Huddinge kommun, Komplementbyggnad (lovpliktig)",
+        "url": "https://www.huddinge.se/bostad-och-miljo/bygglov/nar-behover-du-bygglov/komplementbyggnad",
+        "page_date": "2026-09-14",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Huddinge kommun, Ordlista och exempel",
+        "url": "https://www.huddinge.se/bostad-och-miljo/bygglov/ordlista-bygglov",
+        "page_date": "2026-10-22",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Huddinge kommun, Kartor och mättjänster",
+        "url": "https://www.huddinge.se/bostad-och-miljo/kartor-oppna-geodata-och-mattjanster/kartor-och-mattjanster",
+        "page_date": "2026-10-09",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Håbo",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": "Kommunens sida anger på ett ställe 65 m² för ett ensamt komplementbostadshus utanför detaljplan; fråga kommunen.",
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-habo-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Håbo kommun, Bygga, installera eller riva – det här gäller",
+        "url": "https://www.habo.se/bygga-bo-och-miljo/bygga-installera-och-riva/bygga-installera-eller-riva---det-har-galler.html",
+        "page_date": "2026-10-06",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Håbo kommun, Nya regler för bygglov gäller från 1 december 2025",
+        "url": "https://www.habo.se/bygga-bo-och-miljo/bygga-installera-och-riva/nya-regler-for-bygglov-galler-fran-1-december-2025.html",
+        "page_date": "2026-09-22",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Håbo kommun, Ritningar och andra handlingar",
+        "url": "https://www.habo.se/bygga-bo-och-miljo/bygga-installera-och-riva/ritningar-och-andra-handlingar.html",
+        "page_date": "2026-05-07",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Håbo kommun, Kartor",
+        "url": "https://www.habo.se/bygga-bo-och-miljo/kart---och-mattjanster/kartor.html",
+        "page_date": "2026-05-18",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "kommun": "Hässleholm",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-hassleholm-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Hässleholms kommun, Komplementbyggnad",
+        "url": "https://www.hassleholm.se/bygga-bo-och-miljo/allt-om-bygglov/bygglovsguiden---vad-vill-du-gora/komplementbyggnad",
+        "page_date": "2026-07-03",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Hässleholms kommun, Exempelritningar för nybyggnad av komplementbyggnad",
+        "url": "https://www.hassleholm.se/download/18.aa3016d1859681afa4d40cd/1725364258329/Exempelritning%20f%C3%B6r%20nybyggnad%20av%20komplementbyggnad.pdf",
+        "page_date": "2024-09-03",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Hässleholms kommun, Kart- och mättjänster",
+        "url": "https://www.hassleholm.se/bygga-bo-och-miljo/allt-om-bygglov/kart--och-mattjanster",
+        "page_date": "2026-09-10",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Hässleholms kommun, Avgifter för kart- och mättjänster",
+        "url": "https://www.hassleholm.se/bygga-bo-och-miljo/allt-om-bygglov/kart--och-mattjanster/avgifter",
+        "page_date": "2026-07-23",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Järfälla",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-jarfalla-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Järfälla kommun, Komplementbostadshus (bygglovsbefriad)",
+        "url": "https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bygglov/behovslovelleranmalan/komplementbostadshusbygglovsbefriad.4.3e0a62b419bdc18674adc30.html",
+        "page_date": "2026-03-06",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Järfälla kommun, Ritningar och andra ansökningshandlingar",
+        "url": "https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bygglov/ritningarochandraansokningshandlingar.4.77bc1d6214fddba3a1d1791e.html",
+        "page_date": "2024-10-03",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Järfälla kommun, Situationsplan",
+        "url": "https://www.jarfalla.se/byggaboochmiljo/byggaochbo/bygglov/ritningarochandraansokningshandlingar/situationsplan.4.5dc7aaaa15046a77fc5eccfe.html",
+        "page_date": "2024-09-15",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Jönköping",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-jonkoping-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Jönköpings kommun, Komplementbyggnad. Bygglov eller anmälan?",
+        "url": "https://www.jonkoping.se/bygga-bo--miljo/bygglov-marklov-och-anmalan/privatperson---bra-att-veta-infor-ansokan-eller-anmalan/a-o-guide-vad-vill-du-bygga/komplementbyggnad.-bygglov-eller-anmalan",
+        "page_date": "2026-10-07",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Jönköpings kommun, Krav på ritningar och handlingar",
+        "url": "https://www.jonkoping.se/bygga-bo--miljo/bygglov-marklov-och-anmalan/privatperson---bra-att-veta-infor-ansokan-eller-anmalan/ritningar-och-handlingar-nar-du-ansoker-om-bygglov-eller-gor-en-anmalan/krav-pa-ritningar-och-handlingar",
+        "page_date": "2026-10-13",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Kalmar",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-kalmar-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Kalmar kommun, Komplementbostadshus",
+        "url": "https://kalmar.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/komplementbostadshus.html",
+        "page_date": "2026-06-25",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Kalmar kommun, Komplementbyggnad",
+        "url": "https://kalmar.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/komplementbyggnad.html",
+        "page_date": "2026-09-11",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Kalmar kommun, Beställa nybyggnadskarta",
+        "url": "https://kalmar.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/kartor-for-bygglov/bestalla-nybyggnadskarta.html",
+        "page_date": "2026-08-17",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Karlstad",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-karlstad-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Karlstads kommun, Komplementbostadshus",
+        "url": "https://karlstad.se/bygga-bo-och-leva-hallbart/bygglov-och-tillstand/vad-ska-du-bygga-eller-andra/komplementbostadshus",
+        "page_date": "2026-06-08",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Karlstads kommun, Lovbefriade åtgärder",
+        "url": "https://karlstad.se/bygga-bo-och-leva-hallbart/bygglov-och-tillstand/lovbefriade-atgarder",
+        "page_date": "2026-01-30",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Karlstads kommun, Attefallsåtgärder",
+        "url": "https://karlstad.se/bygga-bo-och-leva-hallbart/bygglov-och-tillstand/vad-ska-du-bygga-eller-andra/attefallsatgarder",
+        "page_date": "2026-07-27",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Karlstads kommun, För dig som ska rita själv",
+        "url": "https://karlstad.se/bygga-bo-och-leva-hallbart/bygglov-och-tillstand/for-dig-som-ska-rita-sjalv",
+        "page_date": "2026-07-27",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Karlstads kommun, Exempel på bygglovshandlingar",
+        "url": "https://karlstad.se/bygga-bo-och-leva-hallbart/bygglov-och-tillstand/exempel-pa-bygglovshandlingar",
+        "page_date": "2026-07-31",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Karlstads kommun, Nybyggnadskarta",
+        "url": "https://karlstad.se/bygga-bo-och-leva-hallbart/kartor-och-geografisk-information-gis/nybyggnadskarta",
+        "page_date": "2026-08-03",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "kommun": "Knivsta",
+    "largest_building_m2": null,
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": "Hela kommunen är riksintresse för totalförsvaret: kommunen kräver bygglov för varje komplementbostadshus.",
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-knivsta-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Knivsta kommun, Komplementbyggnader",
+        "url": "https://knivsta.se/bygga-bo-och-miljo/bygglov/vad-vill-du-bygga/komplementbyggnader",
+        "page_date": "2026-09-23",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Knivsta kommun, Checklista för komplementbyggnad",
+        "url": "https://knivsta.se/download/18.14a48d8916d8b55be7b357bc/1571138717579/Checklista%20f%C3%B6r%20komplementbyggnad%20NY%20191015.pdf",
+        "page_date": null,
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Knivsta kommun, Checklistor",
+        "url": "https://knivsta.se/bygga-bo-och-miljo/bygglov/sok-bygglov-forhandsbesked-eller-gor-en-anmalan/checklistor",
+        "page_date": "2025-11-30",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Knivsta kommun, Nybyggnadskartor – underlag till situationsplaner för bygglov",
+        "url": "https://knivsta.se/bygga-bo-och-miljo/kartor-matning-och-gis/bestall-karta/nybyggnadskarta---underlag-till-bygglovsansokan",
+        "page_date": "2025-11-04",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Kristianstad",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-kristianstad-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Kristianstads kommun, Bygglovsbefriad komplementbyggnad – en- och tvåbostadshus",
+        "url": "https://www.kristianstad.se/byggaboochmiljo/bygganyttandraellerriva/bygglovsguiden/bygglovsbefriadkomplementbyggnadenochtvabostadshus.55467.html",
+        "page_date": "2026-07-31",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Kristianstads kommun, Komplementbyggnad",
+        "url": "https://www.kristianstad.se/byggaboochmiljo/bygganyttandraellerriva/bygglovsguiden/komplementbyggnad.62539.html",
+        "page_date": "2026-07-31",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Kungsbacka",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-kungsbacka-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Kungsbacka kommun, Lovbefriad komplementbyggnad",
+        "url": "https://kungsbacka.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/vad-ska-du-bygga/lovbefriad-komplementbyggnad",
+        "page_date": "2026-09-04",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Kungsbacka kommun, Kartor och karttjänster",
+        "url": "https://kungsbacka.se/bygga-bo-och-miljo/karttjanster-och-mattjanster/kartor-och-karttjanster",
+        "page_date": "2026-04-08",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Kungsbacka kommun, Exempelritningar för ansökan och anmälan",
+        "url": "https://kungsbacka.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/exempelritningar-for-ansokan-och-anmalan",
+        "page_date": "2026-03-13",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Lidingö",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-lidingo-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Lidingö stad, Vad vill du göra?, avsnittet Komplementbyggnad och komplementbostadshus",
+        "url": "https://lidingo.se/bygga-bo/bygglov/vad-vill-du-gora/",
+        "page_date": "2026-04-22",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Lidingö stad, Detta behövs vid ansökan",
+        "url": "https://lidingo.se/bygga-bo/bygglov/detta-behovs-vid-ansokan/",
+        "page_date": "2026-04-22",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Lidingö stad, Kartor för bygglov och anmälan",
+        "url": "https://lidingo.se/bygga-bo/bygglov/kartor-for-bygglov-och-anmalan/",
+        "page_date": "2026-04-22",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Linköping",
+    "largest_building_m2": null,
+    "shared_allowance_m2": null,
+    "max_ridge_height_m": null,
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-linkoping-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Linköpings kommun, Bygglov A–Ö (avsnitten Attefallsåtgärd, Friggebod, Komplementbyggnad, Komplementbostadshus, Anmälan byggåtgärd och Situationsplan)",
+        "url": "https://www.linkoping.se/bygga-och-bo/bygga-nytt-andra-eller-riva/bygglov/bygglov-a-o",
+        "page_date": "2026-10-16",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Linköpings kommun, Checklistor och mallar, med Nybyggnad av komplementbyggnad.pdf",
+        "url": "https://www.linkoping.se/bygga-och-bo/bygga-nytt-andra-eller-riva/checklistor-och-mallar",
+        "page_date": "2026-08-21",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Linköpings kommun, Bygglov blir enklare med nya lagen",
+        "url": "https://www.linkoping.se/aktuellt/aktuellt/2025-10-28-bygglov-blir-enklare-med-nya-lagen",
+        "page_date": "2025-10-28",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Luleå",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-lulea-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Luleå kommun, Vanliga typer av byggprojekt, avsnitten Lovbefriad komplementbostadshus och Lovbefriad komplementbyggnad",
+        "url": "https://www.lulea.se/boende--gator/bygglov---bygga-nytt-andra-riva/vanliga-typer-av-byggprojekt.html",
+        "page_date": "2026-07-15",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Luleå kommun, Nya byggregler",
+        "url": "https://www.lulea.se/boende--gator/bygglov---bygga-nytt-andra-riva/nya-byggregler.html",
+        "page_date": "2025-12-15",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Luleå kommun, Exempelritningar och andra handlingar",
+        "url": "https://www.lulea.se/boende--gator/bygglov---bygga-nytt-andra-riva/exempelritningar-och-andra-handlingar.html",
+        "page_date": "2026-07-15",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Luleå kommun, Nybyggnadskarta",
+        "url": "https://www.lulea.se/boende--gator/bygglov---bygga-nytt-andra-riva/nybyggnadskarta.html",
+        "page_date": "2025-12-22",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Lund",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-lund-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Lunds kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://lund.se/bygga-och-bo/allt-om-bygglov/bygga-nytt-andra-eller-riva/komplementbyggnad-och-komplementbostadshus",
+        "page_date": "2026-06-05",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Lunds kommun, Ritningar och handlingar till bygglov",
+        "url": "https://lund.se/bygga-och-bo/allt-om-bygglov/bygga-nytt-andra-eller-riva/ritningar-och-handlingar-till-bygglov",
+        "page_date": "2026-07-30",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Lunds kommun, Beställ karta och nybyggnadskarta",
+        "url": "https://lund.se/bygga-och-bo/lantmateri-och-mattjanster/bestall-karta-och-nybyggnadskarta",
+        "page_date": "2026-09-30",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "kommun": "Malmö",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-malmo-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Malmö stad, Nybyggnad av komplementbyggnad och komplementbostadshus",
+        "url": "https://malmo.se/Bo-och-leva/Bygga-och-bo/Bygga-riva-eller-forandra/Bygglov-eller-teknisk-anmalan/Nybyggnad-av-komplementbyggnad-och-komplementbostadshus.html",
+        "page_date": "2026-09-28",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Malmö stad, Komplementbyggnad, komplementbostadshus, tillbyggnad",
+        "url": "https://malmo.se/Bo-och-leva/Bygga-och-bo/Bygga-riva-eller-forandra/Bygglov-eller-teknisk-anmalan/Komplementbyggnad-komplementbostadshus-tillbyggnad.html",
+        "page_date": "2026-09-28",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Malmö stad, Allmänna ritningskrav",
+        "url": "https://malmo.se/Bo-och-leva/Bygga-och-bo/Bygga-riva-eller-forandra/Ritningar-och-handlingar-for-bygglov-teknisk-anmalan/Allmanna-ritningskrav.html",
+        "page_date": "2026-05-28",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Malmö stad, Situationsplan",
+        "url": "https://malmo.se/Bo-och-leva/Bygga-och-bo/Bygga-riva-eller-forandra/Ritningar-och-handlingar-for-bygglov-teknisk-anmalan/Vanliga-ritningar-och-underlag/Situationsplan.html",
+        "page_date": "2025-02-03",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Mölndal",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-molndal-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Mölndals stad, Bygglovsbefriad komplementbyggnad till en- och tvåfamiljshus",
+        "url": "https://www.molndal.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/vad-ska-du-bygga/bygglovsbefriad-komplementbyggnad-till-en--och-tvafamiljshus",
+        "page_date": "2026-06-22",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Mölndals stad, Ansökningsunderlag",
+        "url": "https://www.molndal.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/ansokningsunderlag",
+        "page_date": "2026-06-22",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Mölndals stad, Beställning av kartprodukter",
+        "url": "https://www.molndal.se/bygga-bo-och-miljo/lantmateri-och-kartor/bestallning-av-kartprodukter",
+        "page_date": "2026-09-10",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Nacka",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-nacka-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Nacka kommun, Komplementbostadshus (bygglovsbefriad)",
+        "url": "https://www.nacka.se/boende-miljo/bygga-nytt-andra-eller-riva/lovfria-atgarder/komplementbostadshus-bygglovsbefriad/",
+        "page_date": "2026-04-21",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Nacka kommun, Komplementbyggnad (bygglovsbefriad)",
+        "url": "https://www.nacka.se/boende-miljo/bygga-nytt-andra-eller-riva/lovfria-atgarder/nybyggnad-av-komplementbyggnad/",
+        "page_date": "2026-05-11",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Nacka kommun, Exempel, riktlinjer och checklistor",
+        "url": "https://www.nacka.se/boende-miljo/bygga-nytt-andra-eller-riva/exempelritningar-och-riktlinjer/",
+        "page_date": "2025-12-03",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Nacka kommun, Nybyggnadskarta",
+        "url": "https://www.nacka.se/boende-miljo/lantmateri-kart--och-mattjanster/karttjanster/nybyggnadskarta/",
+        "page_date": "2026-09-09",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Norrköping",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-norrkoping-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Norrköpings kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://norrkoping.se/boende-trafik-och-miljo/bygga-nytt-andra-eller-riva/vad-vill-du-bygga/komplementbyggnad-och-komplementbostadshus",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Norrköpings kommun, Olika typer av bygghandlingar",
+        "url": "https://norrkoping.se/boende-trafik-och-miljo/bygga-nytt-andra-eller-riva/sa-soker-du-bygglov-eller-gor-en-anmalan/olika-typer-av-bygghandlingar",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Norrköpings kommun, Nybyggnadskarta",
+        "url": "https://norrkoping.se/boende-trafik-och-miljo/lantmateri-och-kartor/nybyggnadskarta",
+        "page_date": "2026-09-28",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Norrtälje",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-norrtalje-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Norrtälje kommun, Lovbefriade åtgärder",
+        "url": "https://www.norrtalje.se/info/bygga-bo-miljo/bygga-andra-riva/lovbefriade-atgarder/",
+        "page_date": "2026-10-13",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Norrtälje kommun, Bygglov komplementbyggnad till ett enbostadshus eller fritidshus",
+        "url": "https://www.norrtalje.se/sjalvservice/bygga-bo-miljo/bygglov-komplementbyggnad/",
+        "page_date": "2026-02-03",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Norrtälje kommun, Nybyggnadskarta",
+        "url": "https://www.norrtalje.se/info/bygga-bo-miljo/kartor/nybyggnadskarta/",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Norrtälje kommun, Nybyggnadskarta och övriga kartprodukter",
+        "url": "https://www.norrtalje.se/sjalvservice/bygga-bo-miljo/nybyggnadskarta/",
+        "page_date": "2025-10-10",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "kommun": "Nyköping",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-nykoping-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Nyköpings kommun, Lov- och anmälningsfria tillbyggnader, komplementbyggnader och komplementbostadshus",
+        "url": "https://www.nykoping.se/bo-bygga--miljo/bygga-nytt-andra-eller-riva/lov--och-anmalningsfria-tillbyggnader-komplementbyggnader-och-komplementbostadshus/",
+        "page_date": "2026-01-29",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Nyköpings kommun, Ritningar och handlingar vid bygglov",
+        "url": "https://www.nykoping.se/bo-bygga--miljo/bygga-nytt-andra-eller-riva/bygglovsprocessen/ritningar-och-handlingar-vid-bygglov/",
+        "page_date": "2025-05-27",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Nyköpings kommun, Komplementbyggnad",
+        "url": "https://www.nykoping.se/bo-bygga--miljo/bygga-nytt-andra-eller-riva/komplementbyggnad/",
+        "page_date": "2025-12-01",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Nynäshamn",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-nynashamn-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Nynäshamns kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://nynashamn.se/service/boende--miljo/bygga-nytt-andra-eller-riva/vad-vill-du-bygga/komplementbyggnad-och-komplementbostadshus",
+        "page_date": "2026-10-16",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Nynäshamns kommun, Bygglovshandlingar",
+        "url": "https://nynashamn.se/service/boende--miljo/bygga-nytt-andra-eller-riva/bygglovshandlingar",
+        "page_date": "2026-06-30",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Nynäshamns kommun, Nybyggnadskarta och utdrag ur baskarta",
+        "url": "https://nynashamn.se/service/boende--miljo/kartor-och-mattjanster/nybyggnadskarta-och-utdrag-ur-baskarta",
+        "page_date": "2026-06-03",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Sala",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-sala-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Sala kommun, Nya regler för bygglov",
+        "url": "https://www.sala.se/message/40685/?type=news",
+        "page_date": "2025-12-03",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Sala kommun, Åtgärd som inte kräver bygg- eller rivningslov, inklusive eldstad – Anmälan",
+        "url": "https://www.sala.se/selfservice/44",
+        "page_date": "2026-06-11",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Sala kommun, Bygglov, marklov, rivningslov – Ansökan",
+        "url": "https://www.sala.se/selfservice/46",
+        "page_date": "2026-08-19",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Sala kommun, Kartunderlag – Beställning",
+        "url": "https://www.sala.se/selfservice/744",
+        "page_date": "2026-04-27",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Sala kommun, Bygglovstaxa",
+        "url": "https://www.sala.se/resources/files/_Nystruktur/Styrdokument/08%20Taxor%20och%20avgifter/Bygglovstaxa.pdf",
+        "page_date": null,
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Salem",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-salem-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Salems kommun, Lovfria åtgärder",
+        "url": "https://salem.se/byggaboochmiljo/bygganyttandraellerriva/lovfriaatgarder.4.6fc7979a19c47b9392316995.html",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Salems kommun, Checklista för anmälan för komplementbostadshus",
+        "url": "https://salem.se/download/18.3e3fd18b1a08673507b1565/1789102620962/Checklista%20f%C3%B6r%20anm%C3%A4lan%20f%C3%B6r%20komplementbostadshus.pdf",
+        "page_date": null,
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Salems kommun, Beställa kartor",
+        "url": "https://salem.se/byggaboochmiljo/kartoradresserochmatning/bestallakartor.4.40db0dec1936a329c811176f.html",
+        "page_date": "2026-01-20",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Sigtuna",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-sigtuna-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Sigtuna kommun, Komplementbostadshus",
+        "url": "https://www.sigtuna.se/bygga-bo-och-miljo/bygglov/vad-ska-du-bygga/bygga-nytt/komplementbostadshus.html",
+        "page_date": "2026-08-07",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Sigtuna kommun, Förråd, garage eller annan komplementbyggnad",
+        "url": "https://www.sigtuna.se/bygga-bo-och-miljo/bygglov/vad-ska-du-bygga/bygga-nytt/forrad-garage-eller-annan-komplementbyggnad.html",
+        "page_date": "2026-07-30",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Sigtuna kommun, Handlingar och ritningar till ansökan eller anmälan",
+        "url": "https://www.sigtuna.se/bygga-bo-och-miljo/bygglov/sa-har-soker-du-bygglov/handlingar-och-ritningar-till-ansokan-eller-anmalan.html",
+        "page_date": "2026-07-30",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Sigtuna kommun, Nybyggnadskarta – Beställning",
+        "url": "https://www.sigtuna.se/e-tjanster/e-tjanster/2019-08-27-nybyggnadskarta---bestallning.html",
+        "page_date": "2026-06-02",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Skövde",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-skovde-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Skövde kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://www.skovde.se/bygga-bo-leva-hallbart/bygga-nytt-andra-eller-riva/anmalan-eller-bygglov/komplementbyggnad-komplementbostadshus/",
+        "page_date": "2026-08-31",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Skövde kommun, Nya regler för bygglov från 1 december 2025",
+        "url": "https://www.skovde.se/bygga-bo-leva-hallbart/bygga-nytt-andra-eller-riva/nya-regler-for-bygglov-fran-1-december/",
+        "page_date": "2026-08-31",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Skövde kommun, Ritningar och handlingar",
+        "url": "https://www.skovde.se/bygga-bo-leva-hallbart/bygga-nytt-andra-eller-riva/ritningar-och-handlingar/",
+        "page_date": "2026-08-31",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Skövde kommun, Nybyggnadskarta",
+        "url": "https://www.skovde.se/bygga-bo-leva-hallbart/kartor/nybyggnadskarta/",
+        "page_date": "2026-01-23",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Sollentuna",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-sollentuna-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Sollentuna kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://www.sollentuna.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/komplementbyggnad/",
+        "page_date": "2025-12-01",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Sollentuna kommun, Attefallshus",
+        "url": "https://www.sollentuna.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/attefallshus/",
+        "page_date": "2026-04-15",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Sollentuna kommun, Nybyggnadskarta",
+        "url": "https://www.sollentuna.se/nybyggnadskarta",
+        "page_date": "2026-09-30",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Strängnäs",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-strangnas-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Strängnäs kommun, Lovbefriade åtgärder",
+        "url": "https://www.strangnas.se/bygga-bo-och-miljo/bygga-riva-och-forandra/lovbefriade-atgarder",
+        "page_date": "2026-09-28",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Strängnäs kommun, Anmälningspliktiga åtgärder",
+        "url": "https://www.strangnas.se/bygga-bo-och-miljo/bygga-riva-och-forandra/anmalningspliktiga-atgarder",
+        "page_date": "2026-10-06",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Strängnäs kommun, Exempelritningar och kontrollplaner",
+        "url": "https://www.strangnas.se/bygga-bo-och-miljo/bygga-riva-och-forandra/exempelritningar-och-kontrollplaner",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Strängnäs kommun, Nybyggnadskartor",
+        "url": "https://www.strangnas.se/bygga-bo-och-miljo/kartor-och-mattjanster/nybyggnadskartor",
+        "page_date": "2026-06-15",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Sundsvall",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-sundsvall-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Sundsvalls kommun, Exempel på byggprojekt",
+        "url": "https://sundsvall.se/kommun/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglov/exempel-pa-byggprojekt",
+        "page_date": "2026-10-09",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Sundsvalls kommun, Frågor och svar om bygglov och anmälan",
+        "url": "https://sundsvall.se/kommun/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglov/fragor-och-svar-om-bygglov-och-anmalan",
+        "page_date": "2026-10-09",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Sundsvalls kommun, Bygglovhandlingar, termer och exempelritningar",
+        "url": "https://sundsvall.se/kommun/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglov/bygglovhandlingar-termer-och-exempelritningar",
+        "page_date": "2026-01-29",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Sundsvalls kommun, Nybyggnadskarta",
+        "url": "https://sundsvall.se/kommun/bygga-bo-och-miljo/fastigheter-och-lantmateri/nybyggnadskarta",
+        "page_date": "2026-08-07",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "kommun": "Södertälje",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-sodertalje-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Södertälje kommun, Komplementbyggnad och komplementbostadshus",
+        "url": "https://www.sodertalje.se/bo-och-bygga/bygga-nytt-och-riva/komplementbyggnad-och-komplementbostadshus/",
+        "page_date": "2026-08-07",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Södertälje kommun, Checklista – inför anmälan av komplementbostadshus max 30 kvm",
+        "url": "https://www.sodertalje.se/globalassets/sbk/bo-och-bygga/bygglov/checklistor/checklista-for-anmalan-komplementbostadshus-max-30-kvm-attefall.pdf",
+        "page_date": null,
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Tierp",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-tierp-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Tierps kommun, Bygglovsfritt",
+        "url": "https://www.tierp.se/tierp.se/bo-trafik-och-miljo/bygga-bostad/bygga-nytt-andra-eller-riva/bygglovsfritt.html",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Tierps kommun, Bygglovshandlingar",
+        "url": "https://www.tierp.se/tierp.se/bo-trafik-och-miljo/bygga-bostad/bygga-nytt-andra-eller-riva/att-soka-bygglov/bygglovshandlingar.html",
+        "page_date": "2026-09-11",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Tierps kommun, Bygglovsritningar",
+        "url": "https://www.tierp.se/tierp.se/bo-trafik-och-miljo/bygga-bostad/bygga-nytt-andra-eller-riva/att-soka-bygglov/bygglovsritningar.html",
+        "page_date": "2026-10-15",
+        "checked": "2026-10-24"
+      }
+    ]
+  },
+  {
+    "kommun": "Trollhättan",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-trollhattan-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Trollhättans stad, Komplementbostadshus",
+        "url": "https://www.trollhattan.se/startsida/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide---vad-ska-du-bygga/komplementbostadshus/",
+        "page_date": "2026-09-30",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Trollhättans stad, Nybyggnadskarta",
+        "url": "https://www.trollhattan.se/startsida/bygga-bo-och-miljo/kartor-och-matning/kartor/nybyggnadskarta/",
+        "page_date": "2025-01-13",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Tyresö",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-tyreso-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Tyresö kommun, Komplementbyggnad",
+        "url": "https://www.tyreso.se/boende--miljo/bygga/bygglovswebben/komplementbyggnad.html",
+        "page_date": "2026-03-05",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Tyresö kommun, Fackmannamässiga ritningar",
+        "url": "https://www.tyreso.se/boende--miljo/bygga/har-du-fragor-kring-bygglov/bygglov-och-anmalan---sa-gar-det-till/fackmannamassiga-ritningar.html",
+        "page_date": "2026-03-16",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Tyresö kommun, Nybyggnadskarta",
+        "url": "https://www.tyreso.se/boende--miljo/bygga/matuppdrag-och-kartor/nybyggnadskarta.html",
+        "page_date": "2026-07-20",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Täby",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-taby-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Täby kommun, Åtgärder utan bygglov",
+        "url": "https://www.taby.se/bygga-bo-och-miljo/bygga-riva-och-forandra/atgarder-utan-bygglov",
+        "page_date": "2026-04-23",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Täby kommun, Komplementbyggnad",
+        "url": "https://www.taby.se/bygga-bo-och-miljo/bygga-riva-och-forandra/behover-jag-bygglov/komplementbyggnad",
+        "page_date": "2026-05-07",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Täby kommun, Ritningar och handlingar",
+        "url": "https://www.taby.se/bygga-bo-och-miljo/bygga-riva-och-forandra/ritningar-och-handlingar",
+        "page_date": "2026-10-21",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Täby kommun, Kartprodukter",
+        "url": "https://www.taby.se/stadsplanering-och-trafik/kartor-och-lantmateri/kartor-och-koordinatsystem/kartprodukter",
+        "page_date": "2026-05-07",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Uddevalla",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-uddevalla-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Uddevalla kommun, Komplementbyggnad utan bygglov",
+        "url": "https://www.uddevalla.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/behover-jag-bygglov/komplementbyggnad-utan-bygglov.html",
+        "page_date": "2026-09-03",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Uddevalla kommun, Ritningar och handlingar för bygglov",
+        "url": "https://www.uddevalla.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/ritningar-och-handlingar-for-bygglov.html",
+        "page_date": "2025-12-01",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Uddevalla kommun, Nybyggnadskarta",
+        "url": "https://www.uddevalla.se/bygga-bo-och-miljo/fastigheter-och-lantmateri/kartor/nybyggnadskarta.html",
+        "page_date": "2026-08-13",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Umeå",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-umea-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Umeå kommun, Garage, carport, förråd och andra komplementbyggnader",
+        "url": "https://www.umea.se/byggaboochmiljo/bygganyttandraellerriva/bygglovsguide/garagecarportforradochliknande.4.27a2de8b172da059ace10b5.html",
+        "page_date": "2026-10-06",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Umeå kommun, Handlingar och ritningar till ansökan",
+        "url": "https://www.umea.se/byggaboochmiljo/bygganyttandraellerriva/bygglovsguide/handlingarochritningartillansokan.4.3062064417f8b79793816e.html",
+        "page_date": "2026-04-15",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Umeå kommun, Nybyggnadskarta och enkelt underlag till situationsplan",
+        "url": "https://www.umea.se/byggaboochmiljo/lantmaterikartorochmatning/kartorochgeografiskinformation/nybyggnadskartaochenkeltunderlagtillsituationsplan.4.27a2de8b172da059ace4be.html",
+        "page_date": "2026-09-28",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Upplands Väsby",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-upplands-vasby-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Upplands Väsby kommun, Nybyggnad – komplementbyggnad",
+        "url": "https://www.upplandsvasby.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/nybyggnad---komplementbyggnad",
+        "page_date": "2026-08-25",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Upplands Väsby kommun, Bygglovsprocessen",
+        "url": "https://www.upplandsvasby.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsprocessen",
+        "page_date": "2026-08-24",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Upplands Väsby kommun, Kart- och mättjänster",
+        "url": "https://www.upplandsvasby.se/kommun-och-politik/kommunfakta/kartor/kart--och-mattjanster",
+        "page_date": "2026-09-22",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Upplands-Bro",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-upplands-bro-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Upplands-Bro kommun, Komplementbostadshus",
+        "url": "https://www.upplands-bro.se/bo-bygga-och-leva-hallbart/bygglov/vad-ska-du-bygga/bygga-nytt/komplementbostadshus.html",
+        "page_date": "2026-06-22",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Upplands-Bro kommun, Handlingar och ritningar till ansökan eller anmälan",
+        "url": "https://www.upplands-bro.se/bo-bygga-och-leva-hallbart/bygglov/sa-har-soker-du-bygglov/handlingar-och-ritningar-till-ansokan-eller-anmalan.html",
+        "page_date": "2026-06-22",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Upplands-Bro kommun, Beställ kartor",
+        "url": "https://www.upplands-bro.se/bo-bygga-och-leva-hallbart/kartor-matning-och-fastigheter/bestall-kartor.html",
+        "page_date": "2026-07-08",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Uppsala",
+    "largest_building_m2": null,
+    "shared_allowance_m2": null,
+    "max_ridge_height_m": null,
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-uppsala-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Uppsala kommun, Ta reda på om du behöver bygglov – Nya regler för dig som ska bygga",
+        "url": "https://www.uppsala.se/bygga-och-bo/bygga-riva-och-installera/bygglov/ta-reda-pa-om-du-behover-bygglov/nya-regler-for-dig-som-ska-bygga/",
+        "page_date": "2026-10-16",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Uppsala kommun, Ritningar som behövs för nybyggnad av garage",
+        "url": "https://www.uppsala.se/globalassets/dokument/bygglov/ritningar-som-behovs-for-nybyggnad-av-garage-med-karta.pdf",
+        "page_date": null,
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Vallentuna",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": null,
+    "checked": "2026-10-23",
+    "note": "Kommunens sida anger nockhöjd högst 4 m utan uppdelning inom/utanför detaljplan.",
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-vallentuna-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Vallentuna kommun, Nybyggnad av komplementbyggnad",
+        "url": "https://www.vallentuna.se/bygga-bo-och-miljo/bygglov-och-anmalan/behover-jag-bygglov/nybyggnad-av-komplementbyggnad",
+        "page_date": "2026-10-06",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Vallentuna kommun, Det ska din ansökan eller anmälan innehålla",
+        "url": "https://www.vallentuna.se/bygga-bo-och-miljo/bygglov-och-anmalan/det-ska-din-ansokan-anmalan-innehalla",
+        "page_date": "2026-10-06",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Vallentuna kommun, Karttjänster",
+        "url": "https://www.vallentuna.se/bygga-bo-och-miljo/bygglov-och-anmalan/karttjanster",
+        "page_date": "2026-10-14",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Varberg",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-varberg-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Varbergs kommun, Bygglovsbefriade åtgärder",
+        "url": "https://varberg.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/bygglovsbefriade-atgarder",
+        "page_date": "2026-09-11",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Varbergs kommun, Komplementbyggnad",
+        "url": "https://varberg.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/komplementbyggnad",
+        "page_date": "2026-06-25",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Varbergs kommun, Attefallsåtgärder",
+        "url": "https://varberg.se/bygga-bo-och-miljo/bygga-nytt-andra-eller-riva/bygglovsguide/attefallsatgarder",
+        "page_date": "2026-02-13",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Varbergs kommun, Nybyggnadskarta",
+        "url": "https://varberg.se/bygga-bo-och-miljo/lantmateri-och-kartor/kartor-och-geodata/nybyggnadskarta",
+        "page_date": "2026-04-20",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Vaxholm",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-vaxholm-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Vaxholms stad, Vad vill du bygga, ändra eller riva?",
+        "url": "https://www.vaxholm.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/vad-vill-du-bygga-andra-eller-riva",
+        "page_date": "2026-10-13",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Vaxholms stad, Nya regler i plan- och bygglagen (PBL)",
+        "url": "https://www.vaxholm.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/nya-regler-i-plan--och-bygglagen-pbl",
+        "page_date": "2026-10-12",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Vaxholms stad, Checklistor – det här behöver du skicka in",
+        "url": "https://www.vaxholm.se/bygga-bo--miljo/bygga-nytt-andra-eller-riva/sok-bygglov-eller-gor-en-anmalan/checklistor---det-har-behover-du-skicka-in",
+        "page_date": "2026-04-22",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Vaxholms stad, Nybyggnadskarta C",
+        "url": "https://www.vaxholm.se/bygga-bo--miljo/kartor-matning-och-geografisk-information/kartprodukter/nybyggnadskarta-c",
+        "page_date": "2026-06-08",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Västerås",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-vasteras-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Västerås stad, Komplementbyggnad – förråd, garage eller växthus, bygga",
+        "url": "https://www.vasteras.se/bygga-bo-och-miljo/bygga-nytt-riva-eller-andra/a-till-o-lista-med-byggprojekt/komplementbyggnad---forrad-garage-eller-vaxthus-bygga.html",
+        "page_date": "2026-08-27",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Västerås stad, Före detta attefallsåtgärder",
+        "url": "https://www.vasteras.se/bygga-bo-och-miljo/bygga-nytt-riva-eller-andra/fore-detta-attefallsatgarder.html",
+        "page_date": "2026-03-12",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Västerås stad, Ritningar och handlingar",
+        "url": "https://www.vasteras.se/bygga-bo-och-miljo/bygga-nytt-riva-eller-andra/bra-att-veta-infor-ett-byggprojekt/ritningar-och-handlingar.html",
+        "page_date": "2026-10-07",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Västerås stad, Kartor och geografisk information",
+        "url": "https://www.vasteras.se/bygga-bo-och-miljo/fastigheter-lantmateri-och-kartor/kartor-och-geografisk-information-gis.html",
+        "page_date": "2026-03-11",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Växjö",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-21",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-vaxjo-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Växjö kommun, Detta får du bygga utan bygglov",
+        "url": "https://www.vaxjo.se/sidor/bygga-och-bo/bygga-nytt-bygga-om-bygga-till/detta-far-du-bygga-utan-bygglov.html",
+        "page_date": "2026-04-13",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Växjö kommun, Sök bygglov",
+        "url": "https://www.vaxjo.se/sidor/bygga-och-bo/bygga-nytt-bygga-om-bygga-till/jag-vill-ansoka-om-bygglov-marklov-rivningslov-eller-anmala/sok-bygglov.html",
+        "page_date": "2026-08-21",
+        "checked": "2026-10-21"
+      },
+      {
+        "title": "Växjö kommun, Anmälningspliktiga åtgärder",
+        "url": "https://www.vaxjo.se/sidor/bygga-och-bo/bygga-nytt-bygga-om-bygga-till/jag-vill-ansoka-om-bygglov-marklov-rivningslov-eller-anmala/anmalningspliktiga-atgarder.html",
+        "page_date": "2026-01-23",
+        "checked": "2026-10-21"
+      }
+    ]
+  },
+  {
+    "kommun": "Örebro",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-20",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-orebro-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Örebro kommun, Bygga eller bygga till ett komplementbostadshus",
+        "url": "https://www.orebro.se/bygga-bo--trafik/bygglov/behover-jag-bygglov/komplementbostadshus.html",
+        "page_date": "2026-07-02",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Örebro kommun, Situationsplan",
+        "url": "https://www.orebro.se/bygga-bo--trafik/bygglov/ritningar--handlingar-for-bygglov/situationsplan.html",
+        "page_date": "2020-11-12",
+        "checked": "2026-10-20"
+      },
+      {
+        "title": "Örebro kommun, Planritning, Fasadritning och Sektionsritning",
+        "url": "https://www.orebro.se/bygga-bo--trafik/bygglov/ritningar--handlingar-for-bygglov/",
+        "page_date": "2020-09-11",
+        "checked": "2026-10-20"
+      }
+    ]
+  },
+  {
+    "kommun": "Östersund",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-22",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-ostersund-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Östersunds kommun, Bygglovsbefriade åtgärder",
+        "url": "https://www.ostersund.se/bygga-bo-klimat-och-miljo/bygga/bygga-nytt-andra-eller-riva/bygglov/bygglovsbefriade-atgarder.html",
+        "page_date": "2026-09-23",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Östersunds kommun, Ritningar och handlingar",
+        "url": "https://www.ostersund.se/bygga-bo-klimat-och-miljo/bygga/bygga-nytt-andra-eller-riva/bygglov/ritningar-och-handlingar.html",
+        "page_date": "2025-10-02",
+        "checked": "2026-10-22"
+      },
+      {
+        "title": "Östersunds kommun, Nybyggnadskarta och kartutdrag för enkla ärenden",
+        "url": "https://www.ostersund.se/bygga-bo-klimat-och-miljo/bygga/bygga-nytt-andra-eller-riva/nybyggnadskarta-och-kartutdrag-for-enkla-arenden.html",
+        "page_date": "2026-06-16",
+        "checked": "2026-10-22"
+      }
+    ]
+  },
+  {
+    "kommun": "Österåker",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-23",
+    "note": null,
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-osteraker-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Österåkers kommun, Bygga nytt, ändra eller riva",
+        "url": "https://www.osteraker.se/byggabomiljo/bygganyttandraellerriva.4.367d658917909e8fc2b380.html",
+        "page_date": "2026-10-20",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Österåkers kommun, Bygglovsguiden",
+        "url": "https://www.osteraker.se/byggabomiljo/bygganyttandraellerriva/bygglovsguiden.4.21374a1619a9c24e54e4acc.html",
+        "page_date": "2026-09-02",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Österåkers kommun, Checklista – Ny komplementbyggnad och komplementbostadshus",
+        "url": "https://www.osteraker.se/download/18.24daed7e19aff7a04743cf/1765370398134/Checklista%20-%20Ny%20komplementbyggnad%20och%20komplementbostadshus.pdf",
+        "page_date": null,
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Österåkers kommun, Ritningars kvalitet",
+        "url": "https://www.osteraker.se/download/18.40523b741958b6adf741b939/1759926072052/T%20-%20Vad%20%C3%A4r%20fackm%C3%A4ssiga%20ritningar_.pdf",
+        "page_date": null,
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Österåkers kommun, Nybyggnadskarta",
+        "url": "https://www.osteraker.se/byggabomiljo/kartormatningochgis/karttjanster/nybyggnadskarta.4.367d658917909e8fc2b2e13.html",
+        "page_date": "2026-09-09",
+        "checked": "2026-10-23"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "kommun": "Östhammar",
+    "largest_building_m2": {
+      "inside_plan": "30",
+      "outside_plan": "50"
+    },
+    "shared_allowance_m2": {
+      "inside_plan": "45",
+      "outside_plan": "65"
+    },
+    "max_ridge_height_m": {
+      "inside_plan": "4",
+      "outside_plan": "4,5"
+    },
+    "checked": "2026-10-24",
+    "note": "Kommunens sidor saknade gränserna när vi läste dem; siffrorna är Boverkets.",
+    "summary_sv": "https://sek-v-001-attefallsritning.vercel.app/kommun-osthammar-komplementbostadshus.html",
+    "sources": [
+      {
+        "title": "Östhammars kommun, Anmälningspliktiga åtgärder, hela guiden på en sida",
+        "url": "https://www.osthammar.se/boendetrafikmiljo/bygga-nytt-andra-eller-riva/anmalningspliktiga-atgarder/attefallsregler/?rendermode=full",
+        "page_date": "2026-07-02",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Östhammars kommun, Kartunderlag för bygglov och detaljplaner",
+        "url": "https://www.osthammar.se/boendetrafikmiljo/bygga-nytt-andra-eller-riva/kartor-lageskontroll-och-utstakning/karta-for-bygglov/",
+        "page_date": "2026-06-26",
+        "checked": "2026-10-24"
+      },
+      {
+        "title": "Boverket, Bygglov för nybyggnad av komplementbostadshus",
+        "url": "https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/nybyggnad/komplementbostadshus/",
+        "page_date": "2026-05-21",
+        "checked": "2026-10-23"
+      }
+    ]
+  }
+]
